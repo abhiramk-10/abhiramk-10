@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi, I’m Abhiram K 👋</h1>
 
-<!--
-**abhiramk-10/abhiramk-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Creative Developer and Software Support Specialist from Kerala
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  I work on modern websites, AI-based projects, Python tools, OpenCV experiments, automation systems, and creative digital experiences.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://abhiramk.in">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/abhiramkofficial">LinkedIn</a>
+</p>
+
+---
+
+## About Me
+
+I’m **Abhiram K**, a Creative Developer and Software Support Specialist from Kerala, India.
+
+I enjoy building practical and creative digital solutions using code, design thinking, and real-world problem solving. My interests include web development, AI-based systems, Python automation, OpenCV, and interactive portfolio experiences.
+
+---
+
+## What I Work On
+
+- Modern portfolio websites  
+- AI-based projects  
+- Python tools and automation  
+- OpenCV and computer vision experiments  
+- Creative digital experiences  
+- Practical software solutions  
+
+---
+
+## Skills
+
+```txt
+Python • JavaScript • TypeScript • React • HTML • CSS
+OpenCV • OCR • AI Projects • MySQL • PHP
+GitHub • Figma • Blender • Creative Development
